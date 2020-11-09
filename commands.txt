@@ -1,1 +1,1 @@
-az account set --subscription "MSDN Axter - Daniel Santos"
+az account set --subscription "nome da conta msdn ou tenant da empresa"

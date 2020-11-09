@@ -10,7 +10,7 @@ variable "tags" {
   type = "map"
   default = {
     environment = "development",
-    owner       = "Daniel Santos",
+    owner       = "Guilherme Lima",
     managedby   = "terraform"
   }
 }
